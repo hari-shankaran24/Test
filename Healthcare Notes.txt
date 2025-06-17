@@ -27,3 +27,5 @@ The below are the 4 main components of the Healthcare Delivery System.
 		Purpose: Sent by insurance companies to providers electronically.
 		Content: Includes payment details, adjustments, denial reasons, and patient responsibility.
 		Benefits: Reduces manual errors, speeds up payment posting, and lowers mailing costs.
+
+All the Best
